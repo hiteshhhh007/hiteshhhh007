@@ -16,8 +16,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂 Random Dev Meme
-<img src="https://myrandom-meme-generator.glitch.me/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hiteshhhh007&icon=2&color=7)](https://visitcount.itsvg.in)
