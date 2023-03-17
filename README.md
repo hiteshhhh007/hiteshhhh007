@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Hitesh!! 👋
 # 💫 About Me:
 🔭 I’m currently working on an iOT X ML Model<br>👯 I’m looking to collaborate on development of AI in SpaceTech<br>🌱 I’m currently learning Tensorflow<br>⚡ Fun fact: I am funny!
 
