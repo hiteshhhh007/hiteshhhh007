@@ -1,5 +1,5 @@
 ### Hi there, I am Hitesh!! 👋
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hiteshhhh007.hiteshhhh007)
 # 💫 About Me:
 🔭 I’m currently working on an iOT X ML Model<br>👯 I’m looking to collaborate on development of AI in SpaceTech<br>🌱 I’m currently learning Tensorflow<br>⚡ Fun fact: I am funny!
 
