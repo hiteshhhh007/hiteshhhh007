@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=hiteshhhh007&color=brightgreen&style=flat-square)
 
 # 💫 About Me:
-🔭 I’m currently learning and NLP<br>👯 I’m looking to collaborate on development of AI in SpaceTech<br>🌱 I’m currently learning Tensorflow<br>⚡ Fun fact: I am funny!
+🔭 I’m currently learning Machine Learning and NLP<br>👯 I’m looking to collaborate on development of AI in SpaceTech<br>🌱 I’m currently learning Tensorflow<br>⚡ Fun fact: I am funny!
 
 
 ## 🌐 Socials:
